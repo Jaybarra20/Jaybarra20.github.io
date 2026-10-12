@@ -3,7 +3,7 @@ I am currently in the Bachelors program for Emergency Management. I hope to use 
 ---
 ## Covid 19 Rate in New York City
 This Map shows the rates of Covid 19 cases across New York City<img width="3300" height="2550" alt="COvidNY" src="https://github.com/user-attachments/assets/c66b12e8-6ae2-434c-9e82-e0de738fd646" />
-live as of October 2026: [paste public link]*
+live as of October 2026: 
 This map shows how Covid rates differed across all of New York.
 This map was published by New York City Department of Health and Mental Hygiene. It shows COvis 19 cases rates by Zip code in 2020.
 I used ArcGISPro to create the map showing the rates of Covid across New York. I made the cases differ by color. The data was divided into 5 different ranges. 
