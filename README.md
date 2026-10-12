@@ -20,7 +20,7 @@ The grades used were associated with redlining in Atlanta during the 1930's.
 This map shows historical data but does not include how the grades were established.
 ---
 ## Data sources
-- [Dataset name, publisher, year, URL]
-- [Dataset name, publisher, year, URL]
+New York City Department of Health and Mental Hygiene. (2020). COVID-19 case data by ZIP code. NYC Health. https://www.nyc.gov/site/doh/covid/covid-19-data-archive.page
+Home Owners' Loan Corporation (HOLC). (1930s). Historical neighborhood redlining grades for Atlanta, Georgia. Data accessed through the University of Richmond's Mapping Inequality project. https://dsl.richmond.edu/panorama/redlining/
 ## Where this is going
 I hope to gain a better understanding on how these types of maps can affect us now in 2026. Being able to toggle different data sets to see changes in that specific data would be a great use in emergency management when looking at past disasters.
