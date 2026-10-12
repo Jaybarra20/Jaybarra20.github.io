@@ -2,7 +2,7 @@
 I am currently in the Bachelors program for Emergency Management. I hope to use the knowledge I gain from this class to help my in my career when I need to create maps for emegencies. 
 ---
 ## Covid 19 Rate in New York City
-This Map shows the rates of Covid 19 cases across New York City(images/COvidNY.png)
+This Map shows the rates of Covid 19 cases across New York City<img width="3300" height="2550" alt="COvidNY" src="https://github.com/user-attachments/assets/c66b12e8-6ae2-434c-9e82-e0de738fd646" />
 live as of October 2026: [paste public link]*
 This map shows how Covid rates differed across all of New York.
 This map was published by New York City Department of Health and Mental Hygiene. It shows COvis 19 cases rates by Zip code in 2020.
@@ -11,7 +11,8 @@ I chose a color palate of red and yellow. Red would show the higher rates of Cov
 This map doesn't show many times individuals were infected with covid or if they counted more than once for the data.
 ---
 ## Atlanta Redlining Map
-This map shows how Atlanta neighborhoods were graded back in the 1930s.(images/map.png)
+This map shows how Atlanta neighborhoods were graded back in the 1930s.<img width="461" height="390" alt="Map" src="https://github.com/user-attachments/assets/c87f1d65-6389-48d3-a8d6-6e893ef29003" />
+
 The grades used were associated with redlining in Atlanta during the 1930's. 
  This data was pulled from files on ArcGISPro
  Using ArcGISPro I seperated different neighborhoods based on their grade from the redlining data. I used different colors to distinguish the areas on the map.
